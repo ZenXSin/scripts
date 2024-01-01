@@ -1,0 +1,112 @@
+1702892837008:sa
+1702892856706:exit
+1702893062917:sa
+1702893097526:sa config
+1702893101847:sa config list
+1702893114279:sa config coreLibrary.lang.console
+1702893142720:sa config wayzer.ext.autoUpdate.enableUpdate
+1702893162605:sa config wayzer.ext.autoUpdate.enableUpdate truw
+1702893164817:sa config wayzer.ext.autoUpdate.enableUpdate true
+1702893170203:sa config wayzer.ext.autoUpdate.enableUpdates set true
+1702893177358:sa config wayzer.ext.autoUpdate.enableUpdate set true
+1702893186904:sa
+1702893190872:sa 2
+1702893204092:sa help 2
+1702893209904:sa hotreload
+1702893214217:sa config wayzer.ext.autoUpdate.enableUpdate set true
+1702893230857:sa reload wayzer/ext/autoUpdate/enableUpdate
+1702893253369:sa var
+1702893257567:sa vars
+1702893334267:sa config list 2
+1702893343147:sa config wayzer.ext.autoUpdate.source
+1702893385714:sa config wayzer.ext.autoUpdate.source set TinyLake/MindustryX
+1702893397112:sa config wayzer.ext.autoUpdate.useMirror
+1702893441170:sa config list 3
+1702893464238:sa config wayzer.reGrief.unitLimit.unitToWarn set 5000
+1702893489305:sa config wayzer.reGrief.unitLimit.unitToKill set 10000
+1702893519413:sa config list 4
+1702893534457:cane
+1702893546754:config
+1702893631808:config name [red]Saturation firepower [blue]Mod's Server
+1702893641641:config dece
+1702893794312:config desc [yellow]The [red]Saturation firepower [yellow]Mod's Server,Wellcome to Play!Our QQ group is [red]181108928
+1702980896021:sa list fail
+1702980970828:sa reload private
+1702980993463:sa reload private/map/floodV2
+1702980998067:sa reload private/map/floodV2/
+1702981023542:sa load private/map/floodV2/
+1702981025883:sa list fail
+1702981332384:sa load private/map/floodV2/
+1702981351708:sa list fail
+1702981444927:sa
+1702981453841:sa hotreload
+1702981493608:sa reload mapScript/13545
+1702981585421:sa load coreMindustry/utilNext
+1702981681191:sa reload mapScript
+1702981690356:sa list fail
+1702981698828:sa load mapScript
+1702981700609:sa list fail
+1702981746026:sa disable mapScript
+1702981751442:sa load mapScript
+1702981758318:sa enable mapScript
+1702981762604:sa load mapScript/
+1702981766428:sa list fail
+1702981769687:exit
+1702981928338:sa fail
+1702981930830:sa list fail
+1702982033577:sa config list
+1702982040985:sa config list 2
+1702982048030:sa config list 3
+1702982201497:sa enable wayzer/user/ext/rank
+1702982215254:sa reload wayzer/user/ext/rank
+1702982228224:sa enable wayzer/user/ext/rank
+1702982274956:sa reload mirai
+1702982321533:sa disable mirai
+1702982394051:sa reload mirai
+1702982505757:sa enable mirai
+1702982528561:sa reload mirai
+1703139485201:sa list
+1703139491923:sa fail
+1703139495011:sa list fail
+1703139505427:sa reload mirai
+1703139537071:sa disable mirai
+1703139556366:sa reload private/map/floodV2
+1703139638356:sa reload mirai
+1703139644723:sa enable mirai
+1703139688758:sa disable mirai
+1703139697759:sa disable private/map/floodV2
+1703139702654:sa reload private/map/floodV2
+1703140059952:sa reload wayzer/ext/resourceHelper
+1703154149269:sa config
+1703154152764:sa config mirai.qq
+1703154157025:sa config mirai.qq set 2504013368
+1703154195532:sa reload mirai
+1703154434680:sa list fail
+1703154601374:sa reload mirai
+1703154610155:sa list
+1703154621025:sa reload private
+1703154632910:sa reload private/map/floodV2
+1703154636751:exit
+1703154682303:sa list
+1703222020337:sa reload mirai/zxs/sige
+1703222022246:sa reload mirai/zxs/sign
+1703222340193:sa reload mirai
+1703222620380:sa reload mirai/zxs/sign
+1703223190125:bind
+1703223192340:help
+1703223194519:help 2
+1703223197063:help 3
+1703223199148:help 4
+1703223202273:help 5
+1703223210748:genCode 488254306
+1703237647474:exit
+1703913558953:sa list mirai
+1703913582273:sa reload mirai/zxs/sign
+1703915346480:subject.sendMessage(sign(sender.id))
+1703915348387:sa reload mirai/zxs/sign
+1704029869208:sa list mirai/zxs
+1704029934937:sa reload mirai/zxs/sign
+1704029951649:sa lsit mirai
+1704029955437:sa list mirai
+1704029966034:sa list mirai/zxs
+1704029980056:sa reload mirai/zxs/sign

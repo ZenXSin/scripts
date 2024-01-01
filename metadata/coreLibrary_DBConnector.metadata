@@ -1,0 +1,5 @@
+ID coreLibrary/DBConnector
+FQ_NAME coreLibrary.DBConnector
+NAME DBConnector Script
++DEPENDS coreLibrary module
++DEPENDS coreLibrary/DBApi 

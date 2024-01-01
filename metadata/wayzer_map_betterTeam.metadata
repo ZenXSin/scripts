@@ -1,0 +1,4 @@
+ID wayzer/map/betterTeam
+FQ_NAME wayzer.map.BetterTeam
+NAME 更好的队伍
++DEPENDS wayzer module

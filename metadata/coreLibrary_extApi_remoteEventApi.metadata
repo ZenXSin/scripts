@@ -1,0 +1,5 @@
+ID coreLibrary/extApi/remoteEventApi
+FQ_NAME coreLibrary.extApi.RemoteEventApi
+NAME RemoteEventApi Script
++DEPENDS coreLibrary module
++DEPENDS coreLibrary/extApi/redisApi 基于redis
